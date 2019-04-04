@@ -45,3 +45,23 @@ So, we came with an Innovative thought to the above said point by building a Mob
 [ ] Worship Time - Delete
 
 - Deleting Worship Timings
+
+[x] Worship Verses
+
+- Displays all Worship Verses added
+
+[x] Worship Verses - Add
+
+- Creating Worship Verses
+
+[ ] Worship Verses - Update
+
+- Updating Worship Verses
+
+[ ] Worship Verses - Delete
+
+- Deleting Worship Verses
+
+[x] Worship Verses - Fetch operation [API CALL on FRONT-END]
+
+- Fetching Worship Verses based on Given Date from Calendar
