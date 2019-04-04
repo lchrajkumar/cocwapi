@@ -1,7 +1,7 @@
 # Church Of Christ Worship Verses API
 Welcome to COC WV API. This repo is build upon Laravel Lumen API Framework for Church Of Christ Worship Verses Mobile App shaped on React Native.
 
-## Application Intro
+## Introduction to Thought
 Application is intended for Religious Worship of JESUS CHRIST believers in the CHURCH. Sunday Worships in CHURCH will have the following process (in general):
 - Worship Starting Prayer
 - Songs
@@ -10,3 +10,21 @@ Application is intended for Religious Worship of JESUS CHRIST believers in the C
 - Engaging with LORD Supper
 - Thanksgiving to LORD from the beleiever's earnings (10% is common)
 - Last Prayer of the Worship
+
+Here we have initiated building a React Native mobile App for "Worshipping God in the name of JESUS by taking VERSES from the HOLY BIBLE" process in Sunday Worship at CHURCH.
+
+### Worshipping God in the name of JESUS by taking VERSES from the HOLY BIBLE
+
+#### Tentative Application name : CHURCH OF CHRIST WORSHIP VERSES
+
+##### App Introduction
+
+Application is used to engage all Church Of Christ believers at one place i.e., on Mobile. Even though the believer is going to CHURCH on every Sunday, the rest of days in a Week, he will engage with all other works and some times steps out of Word Of God unexpectedly.
+
+So, we came with an Innovative thought to the above said point by building a Mobile Centric App which will help a believer to engage with the platform every day by memorizing the Verses which are said on Sunday at the CHURCH. In this way, the spiritual life of any CHRISTIAN citizen will be more engaged to GOD in this HUMAN WORLD.
+
+###### App Features -- BACKEND
+###### Admin Dashboard
+
+[]
+[]
