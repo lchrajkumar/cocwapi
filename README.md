@@ -23,8 +23,25 @@ Application is used to engage all Church Of Christ believers at one place i.e., 
 
 So, we came with an Innovative thought to the above said point by building a Mobile Centric App which will help a believer to engage with the platform every day by memorizing the Verses which are said on Sunday at the CHURCH. In this way, the spiritual life of any CHRISTIAN citizen will be more engaged to GOD in this HUMAN WORLD.
 
-###### App Features -- BACKEND
+###### App Features -- BACKEND [API]
 ###### Admin Dashboard
 
-[]
-[]
+[x] Dashboard
+
+- Shows up the complete Proaganda about the Backend with Charts, Tables
+
+[x] Worship Time
+
+- Displays Worship Timings added
+
+[x] Worship Time - Add
+
+- Creating Worship Timings
+
+[ ] Worship Time - Update
+
+- Updating Worship Timings
+
+[ ] Worship Time - Delete
+
+- Deleting Worship Timings
