@@ -76,3 +76,7 @@ So, we came with an Innovative thought to the above said point by building a Mob
 - [x] COCSW HomeScreen - Notes View
 
 - ![Image of COCSW HomeScreen - Notes View](https://res.cloudinary.com/watermelon-apps-rjct/image/upload/v1554443269/Screenshot-2019-4-5_COC_SW_Fluid_UI_1.png)
+
+- [x] COCSW HomeScreen - SideBar View
+
+- ![Image of COCSW HomeScreen - SideBar View](https://res.cloudinary.com/watermelon-apps-rjct/image/upload/v1554444685/Screenshot-2019-4-5_COC_SW_Fluid_UI_2.png)
