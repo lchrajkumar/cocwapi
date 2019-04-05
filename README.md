@@ -23,7 +23,7 @@ Application is used to engage all Church Of Christ believers at one place i.e., 
 
 So, we came with an Innovative thought to the above said point by building a Mobile Centric App which will help a believer to engage with the platform every day by memorizing the Verses which are said on Sunday at the CHURCH. In this way, the spiritual life of any CHRISTIAN citizen will be more engaged to GOD in this HUMAN WORLD.
 
-### App Features -- BACKEND [API]
+### App Functionalities -- BACKEND [API]
 #### Admin Dashboard
 
 - [x] Dashboard
@@ -120,9 +120,14 @@ So, we came with an Innovative thought to the above said point by building a Mob
 * Clone the repository into your local PC
 * Place the cloned repository into your PC's Localhost directory. For example, in linux we place in /var/www/html/ path.
 * Now navigate to your API directory using Terminal/CMD prompt.
+* Add DB details as per your local DB in ".env" file.
+> .env is not provided in repo. You can download one from here: [Link to .env file](https://res.cloudinary.com/watermelon-apps-rjct/raw/upload/v1554453396/rllsm5n2hk6nguoywtqp.env)
+* Modify the ".env" file as per your local DB configs.
+* Type as below command to create DB tables in your specified DB,
+> php artisan migrate
 * Start the server using the following command
 > php -S localhost:8000 -t public
-* Now navigate to the server URL & do perform Back-End operations.
+* Now navigate to the server URL provided in Terminal & do perform Back-End operations.
 * That's it for now.
 
 
