@@ -70,9 +70,4 @@ So, we came with an Innovative thought to the above said point by building a Mob
 ###### Screens
 
 - [x] COCSW HomeScreen
-
-<<<<<<< HEAD
 ![Image of COCSW HomeScreen](https://res.cloudinary.com/watermelon-apps-rjct/image/upload/v1554442439/Screenshot-2019-4-5_COC_SW_Fluid_UI.png)
-=======
-![Image of COCSW HomeScreen](https://www.fluidui.com/editor/live/preview/cF93MHZHczlLOGN4a0lsbHZ1TVY5UFU4OXhjbTVUdXZ6aw==)
->>>>>>> master
