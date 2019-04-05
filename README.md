@@ -71,4 +71,4 @@ So, we came with an Innovative thought to the above said point by building a Mob
 
 - [x] COCSW HomeScreen
 
-![Image of COCSW HomeScreen](https://www.fluidui.com/editor/live/project/p_w0vGs9K8cxkIllvuMV9PU89xcm5Tuvzk)
+![Image of COCSW HomeScreen](https://res.cloudinary.com/watermelon-apps-rjct/image/upload/v1554442439/Screenshot-2019-4-5_COC_SW_Fluid_UI.png)
