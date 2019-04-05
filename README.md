@@ -26,42 +26,42 @@ So, we came with an Innovative thought to the above said point by building a Mob
 ###### App Features -- BACKEND [API]
 ###### Admin Dashboard
 
-[x] Dashboard
+- [x] Dashboard
 
 - Shows up the complete Proaganda about the Backend with Charts, Tables
 
-[x] Worship Time
+- [x] Worship Time
 
 - Displays Worship Timings added
 
-[x] Worship Time - Add
+- [x] Worship Time - Add
 
 - Creating Worship Timings
 
-[ ] Worship Time - Update
+- [ ] Worship Time - Update
 
 - Updating Worship Timings
 
-[ ] Worship Time - Delete
+- [ ] Worship Time - Delete
 
 - Deleting Worship Timings
 
-[x] Worship Verses
+- [x] Worship Verses
 
 - Displays all Worship Verses added
 
-[x] Worship Verses - Add
+- [x] Worship Verses - Add
 
 - Creating Worship Verses
 
-[ ] Worship Verses - Update
+- [ ] Worship Verses - Update
 
 - Updating Worship Verses
 
-[ ] Worship Verses - Delete
+- [ ] Worship Verses - Delete
 
 - Deleting Worship Verses
 
-[x] Worship Verses - Fetch operation [API CALL on FRONT-END]
+- [x] Worship Verses - Fetch operation [API CALL on FRONT-END]
 
 - Fetching Worship Verses based on Given Date from Calendar
