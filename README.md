@@ -23,8 +23,8 @@ Application is used to engage all Church Of Christ believers at one place i.e., 
 
 So, we came with an Innovative thought to the above said point by building a Mobile Centric App which will help a believer to engage with the platform every day by memorizing the Verses which are said on Sunday at the CHURCH. In this way, the spiritual life of any CHRISTIAN citizen will be more engaged to GOD in this HUMAN WORLD.
 
-#### App Features -- BACKEND [API]
-##### Admin Dashboard
+### App Features -- BACKEND [API]
+#### Admin Dashboard
 
 - [x] Dashboard
 
@@ -66,8 +66,10 @@ So, we came with an Innovative thought to the above said point by building a Mob
 
 - Fetching Worship Verses based on Given Date from Calendar
 
-##### Front-End App
-###### Screens
+#### Front-End App
+##### Screens
+###### version 1.0
+> These are the Mock-Up screens of Church of Christ Sunday Worship Verses (COCSW) Mobile App.
 
 - [x] COCSW HomeScreen
 
@@ -80,3 +82,37 @@ So, we came with an Innovative thought to the above said point by building a Mob
 - [x] COCSW HomeScreen - SideBar View
 
 - ![Image of COCSW HomeScreen - SideBar View](https://res.cloudinary.com/watermelon-apps-rjct/image/upload/v1554444685/Screenshot-2019-4-5_COC_SW_Fluid_UI_2.png)
+
+- [x] COCSW About Church
+
+- ![Image of COCSW About Church](https://res.cloudinary.com/watermelon-apps-rjct/image/upload/v1554450439/Screenshot-2019-4-5_COC_SW_Fluid_UI_3.png)
+
+- [x] COCSW About Church - SideBar View
+
+- ![Image of COCSW About Church - SideBar View](https://res.cloudinary.com/watermelon-apps-rjct/image/upload/v1554450548/Screenshot-2019-4-5_COC_SW_Fluid_UI_4.png)
+
+- [x] COCSW Donations
+
+- ![Image of COCSW Donations](https://res.cloudinary.com/watermelon-apps-rjct/image/upload/v1554450616/Screenshot-2019-4-5_COC_SW_Fluid_UI_5.png)
+
+- [x] COCSW Donations - SideBar View
+
+- ![Image of COCSW Donations - SideBar View]()
+
+- [x] COCSW About Developer
+
+- ![Image of COCSW About Developer]()
+
+- [x] COCSW About Developer - SideBar View
+
+- ![Image of COCSW About Developer - SideBar View]()
+
+- [x] COCSW Contact Us
+
+- ![Image of COCSW Contact Us]()
+
+- [x] COCSW Contact Us - SideBar View
+
+- ![Image of COCSW Contact Us - SideBar View]()
+
+
