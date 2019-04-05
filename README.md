@@ -23,8 +23,8 @@ Application is used to engage all Church Of Christ believers at one place i.e., 
 
 So, we came with an Innovative thought to the above said point by building a Mobile Centric App which will help a believer to engage with the platform every day by memorizing the Verses which are said on Sunday at the CHURCH. In this way, the spiritual life of any CHRISTIAN citizen will be more engaged to GOD in this HUMAN WORLD.
 
-###### App Features -- BACKEND [API]
-###### Admin Dashboard
+#### App Features -- BACKEND [API]
+##### Admin Dashboard
 
 - [x] Dashboard
 
@@ -65,3 +65,10 @@ So, we came with an Innovative thought to the above said point by building a Mob
 - [x] Worship Verses - Fetch operation [API CALL on FRONT-END]
 
 - Fetching Worship Verses based on Given Date from Calendar
+
+##### Front-End App
+###### Screens
+
+- [x] COCSW HomeScreen
+
+![Image of COCSW HomeScreen](https://www.fluidui.com/editor/live/project/p_w0vGs9K8cxkIllvuMV9PU89xcm5Tuvzk)
