@@ -70,4 +70,9 @@ So, we came with an Innovative thought to the above said point by building a Mob
 ###### Screens
 
 - [x] COCSW HomeScreen
-![Image of COCSW HomeScreen](https://res.cloudinary.com/watermelon-apps-rjct/image/upload/v1554442439/Screenshot-2019-4-5_COC_SW_Fluid_UI.png)
+
+- ![Image of COCSW HomeScreen](https://res.cloudinary.com/watermelon-apps-rjct/image/upload/v1554442439/Screenshot-2019-4-5_COC_SW_Fluid_UI.png)
+
+- [x] COCSW HomeScreen - Notes View
+
+- ![Image of COCSW HomeScreen - Notes View](https://res.cloudinary.com/watermelon-apps-rjct/image/upload/v1554443269/Screenshot-2019-4-5_COC_SW_Fluid_UI_1.png)
