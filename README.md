@@ -115,4 +115,14 @@ So, we came with an Innovative thought to the above said point by building a Mob
 
 - ![Image of COCSW Contact Us - SideBar View](https://res.cloudinary.com/watermelon-apps-rjct/image/upload/v1554451236/Screenshot-2019-4-5_COC_SW_Fluid_UI_10.png)
 
+### How to run API?
+> This process is common in all platforms if you have MySQL DB configure priorly in PC/Laptop.
+* Clone the repository into your local PC
+* Place the cloned repository into your PC's Localhost directory. For example, in linux we place in /var/www/html/ path.
+* Now navigate to your API directory using Terminal/CMD prompt.
+* Start the server using the following command
+> php -S localhost:8000 -t public
+* Now navigate to the server URL & do perform Back-End operations.
+* That's it for now.
+
 
